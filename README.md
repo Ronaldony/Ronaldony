@@ -15,7 +15,7 @@
 
   <!-- Velog -->
   <a href="https://velog.io/@wotmd113/posts">
-    <img src="https://img.shields.io/badge/Velog%23000000.svg?style=for-the-badge&logo=velog&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
   </a>
 </p>
   
